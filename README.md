@@ -1,7 +1,7 @@
 # DualSense Tester
 
 Test your DualSense controller in the browser.
-
+https://dualsense-tester-etjmflxc0-lemakakos-projects.vercel.app/
 <https://ds.daidr.me>
 
 ## Features
